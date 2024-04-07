@@ -1,3 +1,7 @@
+This React application manages a packing list, allowing users to add, delete, and toggle items as packed or unpacked. It utilizes state management with useState hook, along with components for form input, item display, and statistics presentation.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
